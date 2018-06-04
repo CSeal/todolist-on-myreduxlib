@@ -1,0 +1,9 @@
+export const TODO_ADD = 'TODO_ADD';
+export const TODO_DELETE = 'TODO_DELETE';
+export const TODO_EDIT = 'TODO_EDIT';
+export const TODO_TOGGLE = 'TODO_TOGGLE';
+export const TODO_TEST = 'TODO_TEST';
+export const TODO_FILTER_SET = 'TODO_FILTER_SET';
+export const TODOS_SET = 'TODOS_SET';
+export const TODOS_ASYNC_ACTION_SET = 'TODOS_ASYNC_ACTION_SET';
+export const TODOS_FETCHING = 'TODOS_FETCHING';
